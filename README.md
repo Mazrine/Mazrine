@@ -1,6 +1,9 @@
 ## Heyo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
+[![Mazrine's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mazrine&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight)
+
 
 
 <!--
