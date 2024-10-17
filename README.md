@@ -1,6 +1,6 @@
 ## Heyo
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=synthwave&layout=compact&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
 
 
 <!--
