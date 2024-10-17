@@ -1,4 +1,7 @@
-## Hi there 👋
+## Heyo
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=synthwave&layout=compact&langs_count=10)
+
 
 <!--
 **Mazrine/Mazrine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
