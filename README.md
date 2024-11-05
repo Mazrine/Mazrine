@@ -1,7 +1,7 @@
 ## Heyo
 
 Sou Mazrine - Nada mais, nada menos que Mazrine.
-Meu github nao tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
+Meu github não tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
 
 no geral, sou dev front-end e faço projetos pessoais por ai...
 
