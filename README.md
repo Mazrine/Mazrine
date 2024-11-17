@@ -6,7 +6,6 @@ Meu github não tava movimentado pois eu estava usando outras plataformas, mas a
 no geral, sou dev front-end e faço projetos pessoais por ai...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
-[![Mazrine's GitHub trophies](https://github-profile-trophy.vercel.app/?username=mazrine&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
