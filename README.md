@@ -5,10 +5,8 @@ Meu github não tava movimentado pois eu estava usando outras plataformas, mas a
 
 no geral, sou dev front-end e faço projetos pessoais por ai...
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br&custom_title=Linguagens%20mais%20usadas%20nos%20meus%20repositórios%20públicos)
-
-
-
+##Nos meus repositórios:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br)
 
 ## Tempo codando nos últimos 7 dias:
 <!--START_SECTION:waka-->
