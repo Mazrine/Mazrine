@@ -5,7 +5,7 @@ Meu github não tava movimentado pois eu estava usando outras plataformas, mas a
 
 no geral, sou dev front-end e faço projetos pessoais por ai...
 
-##Nos meus repositórios:
+## Nos meus repositórios:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br)
 
