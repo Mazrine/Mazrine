@@ -1,4 +1,4 @@
-## Heyo
+# Heyo
 
 Sou Mazrine - Nada mais, nada menos que Mazrine.
 Meu github não tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
@@ -7,6 +7,8 @@ no geral, sou dev front-end e faço projetos pessoais por ai...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
 
+
+## Tempo codando nos últimos 7 dias:
 <!--START_SECTION:waka-->
 
 ```typescript
