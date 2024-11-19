@@ -6,7 +6,6 @@ Meu github não tava movimentado pois eu estava usando outras plataformas, mas a
 no geral, sou dev front-end e faço projetos pessoais por ai...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazrine&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
