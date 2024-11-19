@@ -12,3 +12,25 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          LOCALE: "pt-br"  # Default is English; adjust if necessary.
+          SECTION_NAME: "Your Section Name"  # Replace with your desired section name.
+          COMMIT_BY_ME: "False"  # Do not commit using your name and email.
+          COMMIT_MESSAGE: "Updated with Dev Metrics"  # Default commit message.
+          COMMIT_USERNAME: "readme-bot"  # Default username.
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"  # Default email.
+          SHOW_UPDATED_DATE: "False"  # Do not show updated date.
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"  # Date format (if SHOW_UPDATED_DATE were True).
+          SHOW_LINES_OF_CODE: "True"  # Hide lines of code written.
+          SHOW_TOTAL_CODE_TIME: "True"  # Hide total code time.
+          SHOW_PROFILE_VIEWS: "False"  # Hide profile views.
+          SHOW_COMMIT: "False"  # Hide commit stats.
+          SHOW_DAYS_OF_WEEK: "False"  # Hide commits by days of the week.
+          SHOW_LOC_CHART: "True"  # Hide lines of code chart.
+          SHOW_SHORT_INFO: "True"  # Hide short fun fact info.
+          SHOW_LANGUAGE_PER_REPO: "False"  # Hide number of repositories by language/framework.
+          SHOW_EDITORS: "True"  # Hide list of code editors used.
+          SHOW_TIMEZONE: "False"  # Hide the timezone.
+          SHOW_PROJECTS: "False"  # Hide projects worked on.
+          SHOW_OS: "True"  # Hide OS details.
+          SHOW_LANGUAGE: "True"  # Hide coding languages used.
+          
