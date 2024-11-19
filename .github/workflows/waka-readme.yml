@@ -15,8 +15,8 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: rust
+          BLOCKS: ->
+          CODE_LANG: typescript
           TIME_RANGE: last_7_days
           LANG_COUNT: 10
           SHOW_TIME: true
