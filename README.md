@@ -8,6 +8,16 @@ no geral, sou dev front-end e faço projetos pessoais por ai...
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=compact&langs_count=10)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 01 November 2024 - To: 19 November 2024
+
+Total Time: 70 hrs 20 mins
+
+TypeScript    66 hrs 42 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.95 %
+Other         3 hrs           >------------------------   04.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
