@@ -9,7 +9,7 @@ no geral, sou dev front-end e faço projetos pessoais por ai...
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br)
 
-## Tempo codando nos últimos 7 dias (incluindo projetos fora do github)
+## Tempo codando nos últimos 30 dias (incluindo projetos fora do github)
 <!--START_SECTION:waka-->
 
 ```rust
