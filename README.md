@@ -10,15 +10,15 @@ no geral, sou dev front-end e faço projetos pessoais por ai...
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 November 2024 - To: 28 December 2024
+From: 29 November 2024 - To: 29 December 2024
 
-Total Time: 102 hrs 44 mins
+Total Time: 100 hrs 29 mins
 
-TypeScript    95 hrs 10 mins  +++++++++++++++++++++++--   92.64 %
-Markdown      3 hrs 6 mins    +------------------------   03.03 %
-Bash          2 hrs 8 mins    +------------------------   02.09 %
-CSS           30 mins         -------------------------   00.50 %
-Python        26 mins         -------------------------   00.43 %
+TypeScript    90 hrs 39 mins  +++++++++++++++++++++++--   90.22 %
+Markdown      3 hrs 11 mins   +------------------------   03.18 %
+Nix           2 hrs 9 mins    +------------------------   02.15 %
+Bash          2 hrs 5 mins    +------------------------   02.09 %
+CSS           30 mins         -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
