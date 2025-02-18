@@ -44,6 +44,15 @@ Here are some ideas to get you started:
 -->
 
 
-## Nos meus repositórios:
+## Github stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-yxqy.vercel.app/api?username=mazrine&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br" height="180" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
