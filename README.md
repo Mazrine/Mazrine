@@ -46,13 +46,15 @@ Here are some ideas to get you started:
 
 ## Github stats:
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-yxqy.vercel.app/api?username=mazrine&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br" height="180" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazrine&theme=tokyonight&layout=donut&langs_count=10&locale=pt-br" width="100%" alt="Top Languages" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-yxqy.vercel.app/api?username=mazrine&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" width="100%" alt="stats graph" />
+      </td>
+    </tr>
+  </table>
+</div>
