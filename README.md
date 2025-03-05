@@ -3,7 +3,7 @@
 Sou Mazrine - Nada mais, nada menos que Mazrine.
 Meu github não tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
 
-no geral, sou dev front-end e faço projetos pessoais por ai...
+no geral, sou dev fullstack com foco no front- e faço projetos pessoais por ai...
 
 
 ## Tempo codando nos últimos 30 dias (incluindo projetos fora do github)
