@@ -10,20 +10,20 @@ no geral, sou dev fullstack com foco no front- e faço projetos pessoais por ai.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 February 2025 - To: 08 March 2025
+From: 07 February 2025 - To: 09 March 2025
 
-Total Time: 68 hrs 22 mins
+Total Time: 70 hrs 25 mins
 
-TypeScript                 32 hrs 38 mins  ++++++++++++-------------   47.73 %
-Markdown                   13 hrs 23 mins  +++++--------------------   19.57 %
-Nix                        6 hrs 3 mins    ++-----------------------   08.85 %
-Java                       4 hrs 4 mins    +------------------------   05.96 %
-Other                      2 hrs 7 mins    +------------------------   03.11 %
-Dart                       1 hr 48 mins    +------------------------   02.65 %
-Python                     1 hr 43 mins    +------------------------   02.52 %
-JSON                       1 hr 41 mins    +------------------------   02.48 %
-YAML                       1 hr 37 mins    +------------------------   02.38 %
-Bash                       1 hr 9 mins     -------------------------   01.69 %
+TypeScript                 34 hrs 13 mins  ++++++++++++-------------   48.60 %
+Markdown                   13 hrs 31 mins  +++++--------------------   19.21 %
+Nix                        6 hrs           ++-----------------------   08.52 %
+Java                       4 hrs 4 mins    +------------------------   05.79 %
+Other                      3 hrs 7 mins    +------------------------   04.44 %
+Python                     1 hr 43 mins    +------------------------   02.44 %
+Dart                       1 hr 39 mins    +------------------------   02.36 %
+YAML                       1 hr 37 mins    +------------------------   02.31 %
+JSON                       1 hr 18 mins    -------------------------   01.87 %
+Docker                     1 hr 2 mins     -------------------------   01.47 %
 ```
 
 <!--END_SECTION:waka-->
