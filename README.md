@@ -12,8 +12,6 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 ```rust
 From: 26 February 2025 - To: 28 March 2025
 
-Total Time: 64 hrs 2 mins
-
 TypeScript                        ++++++++++++++++---------   63.67 %
 Markdown                          ++++---------------------   15.00 %
 Java                              ++-----------------------   07.46 %
