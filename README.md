@@ -4,9 +4,6 @@ Sou Mazrine (Lisa Mascarenhas)
 Meu github não tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
 
 no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
-
-
-## Tempo codando nos últimos 30 dias (incluindo projetos fora do github)
 <!--START_SECTION:waka-->
 
 ```rust
