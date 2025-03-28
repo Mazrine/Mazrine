@@ -1,9 +1,9 @@
 # Heyo
 
-Sou Mazrine - Nada mais, nada menos que Mazrine.
+Sou Mazrine (Lisa Mascarenhas)
 Meu github não tava movimentado pois eu estava usando outras plataformas, mas agora voltei pra ca!
 
-no geral, sou dev fullstack com foco no front- e faço projetos pessoais por ai...
+no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 
 
 ## Tempo codando nos últimos 30 dias (incluindo projetos fora do github)
