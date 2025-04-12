@@ -7,20 +7,20 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 March 2025 - To: 10 April 2025
+From: 12 March 2025 - To: 11 April 2025
 
-Total Time: 97 hrs 59 mins
+Total Time: 98 hrs 11 mins
 
-TypeScript        69 hrs 47 mins  ++++++++++++++++++-------   71.22 %
-Markdown          8 hrs           ++-----------------------   08.17 %
-Java              4 hrs 38 mins   +------------------------   04.73 %
+TypeScript        68 hrs 20 mins  +++++++++++++++++--------   69.60 %
+Markdown          8 hrs           ++-----------------------   08.15 %
+Nix               5 hrs 41 mins   +------------------------   05.80 %
 Rust              3 hrs 58 mins   +------------------------   04.06 %
-Nix               3 hrs 42 mins   +------------------------   03.79 %
-CSS               3 hrs 6 mins    +------------------------   03.17 %
+Java              3 hrs 21 mins   +------------------------   03.42 %
+CSS               3 hrs 6 mins    +------------------------   03.16 %
 Python            1 hr 46 mins    -------------------------   01.80 %
-JSON              58 mins         -------------------------   01.00 %
-Bash              38 mins         -------------------------   00.65 %
-Other             36 mins         -------------------------   00.63 %
+JSON              1 hr 7 mins     -------------------------   01.15 %
+Other             37 mins         -------------------------   00.64 %
+Bash              36 mins         -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
