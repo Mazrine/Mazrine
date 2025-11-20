@@ -7,7 +7,7 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 October 2025 - To: 18 November 2025
+From: 20 October 2025 - To: 19 November 2025
 
 tidal                   +++++++++++++++++++++----   83.66 %
 TOML                    ++-----------------------   07.54 %
