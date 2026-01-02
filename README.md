@@ -7,7 +7,7 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 December 2025 - To: 31 December 2025
+From: 02 December 2025 - To: 01 January 2026
 
 Nix                          ++++++++++++++++++-------   71.08 %
 Lua                          ++++++-------------------   25.64 %
