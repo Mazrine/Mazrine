@@ -7,11 +7,11 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 March 2026 - To: 22 April 2026
+From: 24 March 2026 - To: 23 April 2026
 
-Rust                         +++++++++++++++----------   60.19 %
-Nix                          ++++++-------------------   23.94 %
-TOML                         ++++---------------------   15.87 %
+Rust                         +++++++++++++++----------   60.28 %
+Nix                          ++++++-------------------   23.83 %
+TOML                         ++++---------------------   15.89 %
 ```
 
 <!--END_SECTION:waka-->
