@@ -7,7 +7,7 @@ no geral, sou dev fullstack com foco em typescript e apaixonada por rust!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 July 2026 - To: 05 August 2026
+From: 08 July 2026 - To: 07 August 2026
 
 No activity tracked
 ```
